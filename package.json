@@ -1,19 +1,19 @@
 {
-    "name": "@reactgular/chunks",
+    "name": "@canvasgfx/chunks",
     "version": "1.0.1",
     "description": "Creates an array of elements split into groups the length of size.",
     "author": "reactgular.com",
-    "homepage": "https://github.com/reactgular/chunks.git",
+    "homepage": "https://github.com/canvasgfx/chunks.git",
     "license": "MIT",
     "main": "lib/cjs/index.js",
     "module": "lib/es5/index.js",
     "typings": "lib/typings/index.d.ts",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/reactgular/chunks.git"
+        "url": "git+https://github.com/canvasgfx/chunks.git"
     },
     "bugs": {
-        "url": "https://github.com/reactgular/chunks/issues"
+        "url": "https://github.com/canvasgfx/chunks/issues"
     },
     "keywords": [
         "javascript",
