@@ -1,6 +1,6 @@
 {
     "name": "@canvasgfx/chunks",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Creates an array of elements split into groups the length of size.",
     "author": "reactgular.com",
     "homepage": "https://github.com/canvasgfx/chunks.git",
